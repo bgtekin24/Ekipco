@@ -1,0 +1,10 @@
+  /*
+1-Anasayfa'ya gidildiğinde 3 slider, kategoriler, isimleri, header ve altat sm ikonları olmalıdır.
+2-Anayasayfada sliderlara tıkladığında ilgili ürün sayfasına götürmelidir.
+3-Kategorilere tıkladığında ilgili kategori açılmalı ve ürünler kategoriye uygun olmalıdır.(3)
+4-Ürünlere tıklandığında tüm ürünler gösterilmelidir (8)
+5-Her bir ürün ayrı ayrı favorilere eklenebilir çıkarılabilir olmalıdır.
+6-Favorilere tıklandığında favorileredeki ürünler gösterilebilir olmaldıır.
+7-Tek bir ürüne tıklandığında o ürünün adı fiyatı ve görseli bulunmalıdır.
+8-SM ikonlarına tıklandığında ilgili sosyal medya sayfasına götürmelidir.
+  */
